@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "video_ppt", "video_ppt.vcxproj", "{32F7E6C2-1E45-47F4-B60F-564CE24EAFDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32F7E6C2-1E45-47F4-B60F-564CE24EAFDF}.Debug|x64.ActiveCfg = Debug|x64
+		{32F7E6C2-1E45-47F4-B60F-564CE24EAFDF}.Debug|x64.Build.0 = Debug|x64
+		{32F7E6C2-1E45-47F4-B60F-564CE24EAFDF}.Debug|x86.ActiveCfg = Debug|Win32
+		{32F7E6C2-1E45-47F4-B60F-564CE24EAFDF}.Debug|x86.Build.0 = Debug|Win32
+		{32F7E6C2-1E45-47F4-B60F-564CE24EAFDF}.Release|x64.ActiveCfg = Release|x64
+		{32F7E6C2-1E45-47F4-B60F-564CE24EAFDF}.Release|x64.Build.0 = Release|x64
+		{32F7E6C2-1E45-47F4-B60F-564CE24EAFDF}.Release|x86.ActiveCfg = Release|Win32
+		{32F7E6C2-1E45-47F4-B60F-564CE24EAFDF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B7A0FD6-5CA3-4A1A-8BEA-389163F1AA1B}
+	EndGlobalSection
+EndGlobal
